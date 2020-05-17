@@ -1,5 +1,8 @@
-1971 - Intel 4004 - 1st microprocessor
-1978 - Intel 8086 - x86 framework
+1971 - Intel 4004 - 1st microprocessor - done
+1978 - Intel 8086 - x86 framework - done
 2003 - AMD Opteron - x64 framework
 -> reason amd64 and intel_x86
    x86/32-bit and x64/64-bit
+
+//New stuff!
+1996	AMD introduced the K5 processor on March 27, 1996, with speeds of 75 MHz to 133 MHz and bus speeds of 50 MHz, 60 MHz, or 66 MHz. The K5 was the first processor developed completely in-house by AMD.
