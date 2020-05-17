@@ -1,5 +1,0 @@
-1971 - Intel 4004 - 1st microprocessor
-1978 - Intel 8086 - x86 framework
-2003 - AMD Opteron - x64 framework
--> reason amd64 and intel_x86
-   x86/32-bit and x64/64-bit
